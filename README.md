@@ -25,9 +25,9 @@ I'm a second-year Software Engineering student with a passion for creating fun a
 
 Here are some of my recent projects:
 
-* Project 1 - Brief description of project 1
-* Project 2 - Brief description of project 2
-* Project 3 - Brief description of project 3
+* Project 1 - A task tracker using Ruby on Rails
+* Project 2 - A To-Do List app using Java.
+* Project 3 - ...
 <br>
 
 #### 📫 Contact Me
