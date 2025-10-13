@@ -2,13 +2,12 @@
 ### Hi there! 👋 I'm Radka
 <br>
 
-I'm a third-year Software Engineering student with a passion for creating fun and engaging applications. I'm currently looking for internships and open to new opportunities!
+I'm a final-year Software Engineering student with a passion for creating fun and engaging web applications. I'm currently looking for internships and open to new opportunities!
 <br>
 
 #### 🚀 Skills
 
 + Java
-+ Ruby on Rail
 + HTML
 + CSS
 + Golang
@@ -30,6 +29,7 @@ Here are some of my recent projects:
 * Project 3 - Instagram clone using React and SpringBoot.
 * Project 4 - Another Task Tracker using SpringBoot and Bootstrap
 * Project 5 - Blog API using Golang (it will be uploaded here soon)
+* Project 6 - An online tutor webapp for students in Mozambique using AI tools
 <br>
 
 #### 📫 Contact Me
