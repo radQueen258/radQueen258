@@ -1,55 +1,116 @@
+<div align="center">
 
-### Hi there! 👋 I'm Radka
-<br>
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="120" />
 
-I'm a final-year Software Engineering student with a passion for creating fun and engaging web applications. I'm currently looking for internships and open to new opportunities!
-<br>
+# ✨ Hi, I'm Radka (radQueen258) ✨
+### 💻 Backend Developer | Tech Enthusiast | Forever Learning
 
-#### 🚀 Skills
+<p>
+🌸 Building things with code <br>
+🚀 Passionate about backend & problem solving <br>
+💖 Mixing logic with creativity
+</p>
 
-+ Java
-+ HTML
-+ CSS
-+ Golang
-<br>
+</div>
 
-#### 📚 Currently Learning
+---
 
-+ JavaScript
-+ React
-  
-<br>
+## 🎀 About Me
 
-#### 💻 Projects
+I'm Radka — a backend-focused developer who loves designing clean logic, building useful systems, and constantly leveling up.
 
-Here are some of my recent projects:
+I enjoy turning ideas into working applications and exploring new technologies.
 
-* Project 1 - A task tracker using Ruby on Rails
-* Project 2 - A To-Do List app using Java(TomCat, Maven, jsp, Postgresql)
-* Project 3 - Instagram clone using React and SpringBoot.
-* Project 4 - Another Task Tracker using SpringBoot and Bootstrap
-* Project 5 - Blog API using Golang (it will be uploaded here soon)
-* Project 6 - An online tutor webapp for students in Mozambique using AI tools
-<br>
+✨ Currently improving my skills, building projects, and growing as an engineer.
 
-#### 📫 Contact Me
+---
 
-Feel free to reach out to me if you have any questions or would like to collaborate on a project!
+## 💖 Tech Stack I Work With
 
-Email: [radka.fnhapulo@gmail.com]
-<br>
+<p align="center">
 
-<!--
-**radQueen258/radQueen258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.shields.io/badge/Java-ff69b4?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-ffb6c1?style=for-the-badge&logo=spring&logoColor=black"/>
+<img src="https://img.shields.io/badge/PostgreSQL-f8c8dc?style=for-the-badge&logo=postgresql&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-ffc0cb?style=for-the-badge&logo=html5&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS3-ffd1dc?style=for-the-badge&logo=css3&logoColor=black"/>
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+### ✨ OnlineTutor  
+💡 A tutoring platform concept designed to connect students and tutors using Artfifical Inteligence Technoligies.
+
+**Highlights**
+
+✔ Backend logic & structure 
+✔ Use od AI technologies 
+✔ Dynamic content rendering  
+✔ Clean architecture focus  
+
+---
+
+### ✨ BlogAPI-COPY  
+💡 A backend API project designed to handle blog-related operations through structured endpoints.
+
+**Highlights**
+
+✔ REST-style API design  
+✔ Focus on backend logic & request handling  
+✔ Understanding of scalable backend patterns 
+
+---
+
+### ✨ ToDoList  
+💡 A simple productivity app to manage tasks efficiently.
+
+**Highlights**
+
+✔ CRUD functionality  
+✔ Data handling  
+✔ UI + logic integration  
+
+---
+
+## 🌸 Currently Exploring
+
+✨ Improving backend architecture  
+✨ Learning more about APIs & system design  
+✨ Expanding my dev toolkit  
+
+---
+
+## 📊 GitHub Energy
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=radQueen258&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radQueen258&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 💌 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/radQueen258">
+<img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<!-- Add links if you want later -->
+
+</p>
+
+---
+
+<div align="center">
+
+✨ *"Code is where creativity meets logic."* ✨
+
+</div>
