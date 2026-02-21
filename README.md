@@ -83,20 +83,6 @@ I enjoy turning ideas into working applications and exploring new technologies.
 
 ---
 
-## 📊 GitHub Energy
-
-## 📊 GitHub Energy
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=radQueen258&show_icons=true&theme=radical&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radQueen258&layout=compact&theme=radical&cache_seconds=86400" />
-</p>
-
----
-
 ## 💌 Connect With Me
 
 <p align="center">
