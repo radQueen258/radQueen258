@@ -82,6 +82,8 @@ I enjoy turning ideas into working applications and exploring new technologies.
 ✨ Expanding my dev toolkit  
 
 ---
+![radQueen258's Streak](https://github-readme-streak-stats.herokuapp.com/?user=radQueen258&theme=dracula&hide_border=false)
+---
 
 ## 💌 Connect With Me
 
