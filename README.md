@@ -31,9 +31,10 @@ I enjoy turning ideas into working applications and exploring new technologies.
 
 <img src="https://img.shields.io/badge/Java-ff69b4?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-ffb6c1?style=for-the-badge&logo=spring&logoColor=black"/>
+<img src="https://img.shields.io/badge/Golang-ffd1dc?style=for-the-badge&logo=Go&logoColor=black"/>
 <img src="https://img.shields.io/badge/PostgreSQL-f8c8dc?style=for-the-badge&logo=postgresql&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-ffc0cb?style=for-the-badge&logo=html5&logoColor=black"/>
-<img src="https://img.shields.io/badge/CSS3-ffd1dc?style=for-the-badge&logo=css3&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS3-ffd1dc?style=for-the-badge&logo=css&logoColor=black"/>
 
 </p>
 
@@ -54,7 +55,7 @@ I enjoy turning ideas into working applications and exploring new technologies.
 ---
 
 ### ✨ BlogAPI-COPY  
-💡 A backend API project designed to handle blog-related operations through structured endpoints.
+💡 A backend API project built with Go and designed to handle blog-related operations through structured endpoints.
 
 **Highlights**
 
