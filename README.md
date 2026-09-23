@@ -1,107 +1,112 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="120" />
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100" alt="Coding animation" />
 
-# ✨ Hi, I'm Radka (radQueen258) ✨
-### 💻 Backend Developer | Tech Enthusiast | Forever Learning
+# Hi, I'm Radka 🌸
+### Software Engineer · Backend Development · Data Analysis
 
-<p>
-🌸 Building things with code <br>
-🚀 Passionate about backend & problem solving <br>
-💖 Mixing logic with creativity
-</p>
+I like building the logic behind useful products, asking good questions of data, and making complicated things feel simple.
+
+**Java & Spring Boot** are my backend home. **Python, SQL, and data projects** are part of my toolkit, too.
 
 </div>
 
 ---
 
-## 🎀 About Me
+## A little about me 🎀
 
-I'm Radka — a backend-focused developer who loves designing clean logic, building useful systems, and constantly leveling up.
+I'm a software engineering graduate who enjoys working across the journey from an idea to something people can use. I’m especially drawn to backend systems, APIs, databases, and projects that bring AI into practical applications.
 
-I enjoy turning ideas into working applications and exploring new technologies.
+Lately, I’ve also been exploring data analysis: cleaning data, finding patterns, and turning the results into a story someone can actually understand.
 
-✨ Currently improving my skills, building projects, and growing as an engineer.
+<details>
+<summary><b>✨ A few things I enjoy working on</b></summary>
+<br>
 
----
+- Designing backend logic and REST APIs
+- Working with PostgreSQL and SQL
+- Using Python to explore data and solve problems
+- Building dashboards and explaining what the numbers mean
+- Learning how AI can make everyday tools more useful
 
-## 💖 Tech Stack I Work With
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Java-ff69b4?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-ffb6c1?style=for-the-badge&logo=spring&logoColor=black"/>
-<img src="https://img.shields.io/badge/Golang-ffd1dc?style=for-the-badge&logo=Go&logoColor=black"/>
-<img src="https://img.shields.io/badge/PostgreSQL-f8c8dc?style=for-the-badge&logo=postgresql&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-ffc0cb?style=for-the-badge&logo=html5&logoColor=black"/>
-<img src="https://img.shields.io/badge/CSS3-ffd1dc?style=for-the-badge&logo=css&logoColor=black"/>
-
-</p>
+</details>
 
 ---
 
-## 🚀 Featured Projects
+## My toolkit 💖
 
-### ✨ OnlineTutor  
-💡 A tutoring platform concept designed to connect students and tutors using Artfifical Inteligence Technoligies.
+**Backend & programming**
 
-**Highlights**
+![Java](https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=java&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-FFB6C1?style=for-the-badge&logo=springboot&logoColor=black)
+![Python](https://img.shields.io/badge/Python-F8C8DC?style=for-the-badge&logo=python&logoColor=black)
+![Go](https://img.shields.io/badge/Go-FFD1DC?style=for-the-badge&logo=go&logoColor=black)
 
-✔ Backend logic & structure 
-✔ Use od AI technologies 
-✔ Dynamic content rendering  
-✔ Clean architecture focus  
+**Data & databases**
 
----
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF69B4?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-FFB6C1?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-F8C8DC?style=for-the-badge)
+![PowerBI](https://img.shields.io/badge/PowerBI-FFB6C1?style=for-the-badge)
 
-### ✨ BlogAPI-COPY  
-💡 A backend API project built with Go and designed to handle blog-related operations through structured endpoints.
+**Web**
 
-**Highlights**
-
-✔ REST-style API design  
-✔ Focus on backend logic & request handling  
-✔ Understanding of scalable backend patterns 
-
----
-
-### ✨ ToDoList  
-💡 A simple productivity app to manage tasks efficiently.
-
-**Highlights**
-
-✔ CRUD functionality  
-✔ Data handling  
-✔ UI + logic integration  
+![HTML5](https://img.shields.io/badge/HTML5-FFC0CB?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-FFD1DC?style=for-the-badge&logo=css&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFC0CB?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## 🌸 Currently Exploring
+## Things I've built 🚀
 
-✨ Improving backend architecture  
-✨ Learning more about APIs & system design  
-✨ Expanding my dev toolkit  
+### OnlineTutor
+A tutoring platform concept that brings together students, tutors, and AI-powered features.
+
+`Backend development` · `Dynamic content` · `AI integration`
+
+### BlogAPI-COPY
+A blog API built with Go, focused on endpoints, request handling, and backend structure.
+
+`Go` · `REST API` · `Backend logic`
+
+### ToDoList
+A productivity app for managing tasks and practicing the connection between the interface, application logic, and data.
+
+`CRUD` · `Data handling` · `UI`
+
+### Customer Behaviour Analysis
+A data project where I worked through the steps from raw data to a dashboard and insights.
+
+`Data analysis` · `Dashboard` · `Communicating insights`
+
+<details>
+<summary><b>📊 See the customer behaviour dashboard</b></summary>
+<br>
+
+![Customer behaviour dashboard](dashboard_customer_behaviour.png)
+
+</details>
 
 ---
-![radQueen258's Streak](https://github-readme-streak-stats.herokuapp.com/?user=radQueen258&theme=dracula&hide_border=false)
----
 
-## 💌 Connect With Me
+## What I'm learning now 🌱
 
-<p align="center">
-
-<a href="https://github.com/radQueen258">
-<img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<!-- Add links if you want later -->
-
-</p>
+I'm growing in **backend architecture, AI integration, data analysis, and Power BI**. I like learning by building something with each new skill, even if the first version is a little messy.
 
 ---
 
 <div align="center">
 
-✨ *"Code is where creativity meets logic."* ✨
+![Radka's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=radQueen258&theme=dracula&hide_border=true)
+
+### Let's connect 💌
+
+<a href="https://github.com/radQueen258">
+  <img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
+
+<br><br>
+
+*Curious about the problem. Serious about building the solution. Always learning.* ✨
 
 </div>
